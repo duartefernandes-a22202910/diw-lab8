@@ -1,0 +1,44 @@
+[
+  {
+    "title": "HTML",
+    "image": "html.svg",
+    "description": "Linguagem de marcação usada para estruturar páginas web.",
+    "rating": 4
+  },
+  {
+    "title": "CSS",
+    "image": "css.svg",
+    "description": "Responsável pelo estilo e layout das páginas web.",
+    "rating": 4
+  },
+  {
+    "title": "Tailwind CSS",
+    "image": "tailwindcss.svg",
+    "description": "Framework CSS utilitário para criar interfaces rapidamente.",
+    "rating": 5
+  },
+  {
+    "title": "JavaScript",
+    "image": "javascript.svg",
+    "description": "Linguagem de programação usada para tornar a web interativa.",
+    "rating": 5
+  },
+  {
+    "title": "TypeScript",
+    "image": "typescript.svg",
+    "description": "Extensão do JavaScript com tipagem estática.",
+    "rating": 5
+  },
+  {
+    "title": "React.js",
+    "image": "reactjs.svg",
+    "description": "Biblioteca para criar interfaces de utilizador baseadas em componentes.",
+    "rating": 5
+  },
+  {
+    "title": "Next.js",
+    "image": "nextjs.svg",
+    "description": "Framework React para aplicações web modernas e performantes.",
+    "rating": 5
+  }
+]
